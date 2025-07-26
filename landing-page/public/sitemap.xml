@@ -14,6 +14,10 @@
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/blog/test/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/tag/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -63,6 +67,14 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/blog/project-management/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/blog/test-2/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/blog/test-3/</loc>
     <lastmod>2022-09-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
