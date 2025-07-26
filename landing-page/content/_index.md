@@ -83,7 +83,7 @@ sections:
   #        icon: rectangle-group
   #        description: Build your pages with blocks - no coding required!
   - block: cta-image-paragraph
-    id: solutions
+    id: athletes
     content:
       items:
         - title: Danial Qays bin Haji Suhardy
@@ -127,7 +127,7 @@ sections:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
   - block: testimonials
-    id: features
+    id: members
     content:
       title: ""
       text: ""

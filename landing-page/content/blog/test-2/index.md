@@ -4,6 +4,7 @@ summary: PB Karate Club's first tournament participation.
 date: 2022-09-12
 authors:
   - admin
+  - qays
 tags:
   - Hugo Blox
   - Markdown

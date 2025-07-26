@@ -4,16 +4,16 @@ summary: PB Karate Club's first tournament participation.
 date: 2022-09-12
 authors:
   - admin
-tags:
-  - Hugo Blox
-  - Markdown
+# tags:
+#   - Hugo Blox
+#   - Markdown
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 
-## Ideation
+## This is a heading
 
 Hugo Blox supports a Markdown extension for mindmaps.
 
@@ -38,11 +38,11 @@ Mindmaps can be created by simply writing the items as a Markdown list within th
 renders as
 
 ```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
+- First Generation
+  - Second Generation
+  - Third Generation
+  - Fourth Generation
+  - Now the Fifth Generation
 ```
 
 ## Diagrams
@@ -90,5 +90,13 @@ renders as
 - [x] Write math example
   - [x] Write diagram example
 - [ ] Do something else
+
+## This is another heading
+
+# And this is a BIG heading
+
+## Less big heading
+
+Content goes here.
 
 ## Did you find this page helpful? Consider sharing it 🙌
