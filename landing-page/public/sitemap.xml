@@ -71,5 +71,8 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/blog/second-entry/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
