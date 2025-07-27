@@ -5,17 +5,20 @@ date: 2023-10-24
 math: true
 authors:
   - qays
-tags:
-  - Hugo
-  - Hugo Blox Builder
-  - Markdown
-image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+# tags:
+#   - Hugo
+#   - Hugo Blox Builder
+#   - Markdown
+# image:
+#   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+[Learning Markdown Syntax](https://www.markdownguide.org/basic-syntax/) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
+*This continues to next sentence.*
+
+*This starts on a newline.*
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
 
@@ -23,7 +26,7 @@ On this page, you'll find some examples of the types of technical content that c
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
-{{< youtube D2vj0WcvH5c >}}
+{{< youtube VN9dCpjTp80 >}}
 
 **Youtube**:
 
@@ -48,6 +51,7 @@ You can add a podcast or music to a page by placing the MP3 file in the page's f
 Try it out:
 
 {{< audio src="ambient-piano.mp3" >}}
+{{< audio src="yui.mp3" >}}
 
 ## Test students
 
