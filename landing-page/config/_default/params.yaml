@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -41,13 +41,13 @@ header:
       enable: true
       text: "Want to know more?"
       url: "https://pb-karate.notion.site/Politeknik-Brunei-Karate-Club-6e5aa6c5ee704017b939c3a4e0267aee?pvs=143"
-    show_search: true
+    show_search: false
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '{year}'
 
 # Localization
 locale:
