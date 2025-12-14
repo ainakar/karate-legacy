@@ -17,7 +17,7 @@ last_name: Haji Suhardy
 superuser: false
 
 # Role/position/tagline
-role: Karate enthusiast (Intake 13)
+role: Karate enthusiast (Intake 13 July)
 
 # Organizations/Affiliations to show in About widget
 organizations:

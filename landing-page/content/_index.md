@@ -41,7 +41,7 @@ sections:
     id: athletes
     content:
       items:
-        - title: Danial Qays bin Haji Suhardy (Intake 13)
+        - title: Danial Qays bin Haji Suhardy (Intake 13 July)
           text: Karate has been life changing for me. From a kid with dreams to competing on an international level representing my country in less than 2 years. Building strength and confidence with every punch, kick and kiai (shout). It has benefitted me in more ways than I could imagine and being able to express myself through martial arts. Every punch thrown with speed, every kick landing with precision and every technique done with intent. Karate has taught me courage, discipline and self-control.
           feature_icon: minus
           features:
@@ -71,7 +71,7 @@ sections:
       text: ""
       items:
         - name: "Syifa' Haliah binti Haji Hamdani"
-          role: "Club President 2025/2026 (Intake 14)"
+          role: "Club President 2025/2026 (Intake 13 January)"
           image: "syifa.jpeg"
           text: "PBKC has helped shape the person I am today. I didn’t expect to stay for this long, but the support from our Shihan and everyone in the dojo kept pushing me to continue improving myself. Being surrounded by people who are passionate about karate motivated me to grow more confident, both physically and mentally. PBKC truly feels like a second family, bringing together people from different backgrounds through one shared sport."
     design:
@@ -84,7 +84,7 @@ sections:
       text: ""
       items:
         - name: "Siti Nurhalimah Zafirah @Nurjannah binti Mohammed Suffian"
-          role: "Club President 2024/2025 (Intake 13)"
+          role: "Club President 2024/2025 (Intake 13 July)"
           # Upload image to `assets/media/` and reference the filename here
           image: "zafii.jpeg"
           text: "Given the chance and opportunity to lead the club has been incredible. Through it, I've learned a lot, from leadership to strengthening camaraderie with my teammates. I'm truly grateful for the opportunity to serve and contribute to the club's growth, helping it flourish and grow stronger for the next generation to come. OSS!"
