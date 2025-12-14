@@ -20,10 +20,10 @@ sections:
         text: Find out more
         url: https://pb-karate.notion.site/Politeknik-Brunei-Karate-Club-6e5aa6c5ee704017b939c3a4e0267aee
       announcement:
-        text: "Check out our blogs!"
+        text: "Welcome!"
         link:
-          text: "here"
-          url: "/blog/"
+          text: "A word from the club's founder"
+          url: "/blog/opening-blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]

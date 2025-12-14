@@ -13,6 +13,7 @@
       "figcaption",
       "figure",
       "footer",
+      "g",
       "h1",
       "h2",
       "head",
@@ -34,6 +35,7 @@
       "script",
       "section",
       "span",
+      "strong",
       "style",
       "svg",
       "time",
@@ -377,7 +379,6 @@
     ],
     "ids": [
       "athletes",
-      "figure-caption",
       "figure-participating-members-with-the-founderpresident-of-pb-karate-club-taken-after-the-events-closing-ceremony",
       "hide-button",
       "members",

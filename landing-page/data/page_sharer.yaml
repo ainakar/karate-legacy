@@ -14,7 +14,7 @@ links:
     icon: brands/facebook
     enable: false
   - id: email
-    url: 'mailto:?subject={title}&body={url}'
+    url: 'mailto:aina.kar@outlook.com'
     title: Email
     icon: hero/at-symbol
     enable: true
@@ -22,9 +22,9 @@ links:
     url: 'https://www.linkedin.com/shareArticle?url={url}&title={title}'
     title: LinkedIn
     icon: brands/linkedin
-    enable: true
+    enable: false
   - id: whatsapp
-    url: 'whatsapp://send?text={title}%20{url}'
+    url: 'https://wa.me/6738851400'
     title: WhatsApp
     icon: brands/whatsapp
     enable: true
