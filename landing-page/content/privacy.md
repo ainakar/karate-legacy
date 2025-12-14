@@ -1,7 +1,7 @@
 ---
 title: Privacy
-date: 2023-12-01
+date: 2025-07-25
 share: false
 ---
 
-Add your company privacy policy here...
+This website is a community-driven, non-commercial project.

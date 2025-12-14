@@ -5,7 +5,7 @@
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Home</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo_hu_a9030e55234ab795.png</url>
       <title>Home</title>
@@ -58,18 +58,18 @@ My hope for the club moving forward is to embody the sense of togetherness that 
     <item>
       <title>Privacy</title>
       <link>http://localhost:1313/privacy/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/privacy/</guid>
-      <description>&lt;p&gt;Add your company privacy policy here&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;This website is a community-driven, non-commercial project.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms of Service</title>
       <link>http://localhost:1313/terms/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/terms/</guid>
-      <description>&lt;p&gt;Add your company legal terms here&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;This website is a non-commercial, community-based project intended for informational and educational purposes.&lt;/p&gt;
 </description>
     </item>
     

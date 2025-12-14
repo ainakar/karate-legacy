@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Founder of Politeknik Brunei Karate Club
+role: Founder of Politeknik Brunei Karate Club (Intake 10)
 
 # Organizations/Affiliations to show in About widget
 organizations:
